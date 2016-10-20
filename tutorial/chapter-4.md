@@ -252,7 +252,7 @@ Open `app/views/list/list.js` and paste in the following code:
 
 ``` JavaScript
 var dialogsModule = require("ui/dialogs");
-var observableModule = require("data/observable")
+var observableModule = require("data/observable");
 var ObservableArray = require("data/observable-array").ObservableArray;
 var page;
 
